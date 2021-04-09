@@ -3,9 +3,9 @@ Hello
 
 "TREC Test questions.txt" is the extracted questions from https://github.com/abachaa/LiveQA_MedicalTask_TREC2017
 
-We choose 16386 questions from https://github.com/abachaa/MedQuAD as the reference questions.
+I choose 16386 questions from https://github.com/abachaa/MedQuAD as the reference questions.
 
-For each of the questions in "TREC Test questions.txt" (which are 104), we have selected the top 10 similar questions from these 16386 questions, using the TF-IDF. 
+For each of the questions in "TREC Test questions.txt" (which are 104), I have selected the top 10 similar questions from these 16386 questions, using the TF-IDF. 
 
 "only_TFIDF_top 10.txt" contains these top 10 similar questions.
 
