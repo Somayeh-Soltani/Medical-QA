@@ -1,4 +1,5 @@
 # Medical-QA
+***************************************************************************************************************
 Hello
 
 "TREC Test questions.txt" is the extracted questions from https://github.com/abachaa/LiveQA_MedicalTask_TREC2017
